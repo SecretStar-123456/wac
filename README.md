@@ -104,4 +104,4 @@ For all the following examples please consider the following HTML markup.
 
 ## License
 
-MIT. Copyright (c) 2018 Rafael Caferati.
+MIT. Copyright (c) 2018 Tom Nguyen.
